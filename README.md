@@ -1,5 +1,7 @@
 # README
 
+## "Hello, world!"
+
 Starting a simple Hello World application to work on learning Ruby on Rails.
 
 <!-- Things you may want to cover:
