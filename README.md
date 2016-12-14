@@ -1,9 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Starting a simple Hello World application to work on learning Ruby on Rails.
 
-Things you may want to cover:
+<!-- Things you may want to cover:
 
 * Ruby version
 
@@ -21,4 +20,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* ... -->
