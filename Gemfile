@@ -34,6 +34,8 @@ group :development, :test do
   gem 'sqlite3', '1.3.12'
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug', '9.0.0', platform: :mri
+  # reveal views, partials, and js templates in browser
+  gem 'xray-rails'
 end
 
 group :development do
